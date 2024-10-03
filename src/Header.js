@@ -27,9 +27,9 @@ function Header()
                </div>
                <div className="hm_r">
                     <ul>
-                         <li>HOME</li>
-                         <li>ABOUTUS</li>
-                         <li>SERVICE</li>
+                         <li>tanu</li>
+                         <li>jay</li>
+                         <li>hello</li>
                          <li>PAGES</li>
                          <li>ELEMENT</li>
                          <li><i class="fa-solid fa-magnifying-glass"></i></li>
